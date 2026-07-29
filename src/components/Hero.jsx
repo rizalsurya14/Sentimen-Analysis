@@ -28,9 +28,8 @@ export default function Hero() {
           {/* Title */}
 
           <h1 className="mt-6 text-5xl lg:text-6xl font-black leading-tight text-slate-900">
-            Analisis Sentimen
-            <span className="block text-emerald-600">Peraturan Impor BBM</span>
-            bagi Perusahaan Swasta
+            AI POWERED
+            <span className="block text-emerald-600">SENTIMENT ANALYSIS</span>
           </h1>
 
           {/* Description */}
